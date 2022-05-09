@@ -53,7 +53,7 @@ public class MyTourBuilder implements TourPlanBuilder {
 
     private MyTourBuilder(){}
 
-    public static MyTourBuilder create.factory.builder(){
+    public static MyTourBuilder create.builder(){
         return new MyTourBuilder();
     }
 

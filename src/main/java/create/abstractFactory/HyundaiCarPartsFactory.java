@@ -1,4 +1,4 @@
-package create.factory.abstractFactory;
+package create.abstractFactory;
 
 public class HyundaiCarPartsFactory implements CarPartsFactory {
 
